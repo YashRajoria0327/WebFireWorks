@@ -1,0 +1,61 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+.img-pose{
+    height: 1100px;
+    width: 100%;
+}
+.div1{
+    text-align: center;
+
+}
+.container-1{
+   background: #d9d9d9;
+}
+.but{
+
+    text-align: center;
+    border-radius: 20px;
+    border: 2px;
+}
+.txt{
+    font-weight: 30px;
+    font-size: medium;
+    font-family:"Roboto", sans-serif;
+    line-height: 1.5;
+}
+.img{
+    position: center;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+.pro{
+    border-radius: 50%;
+    position: center;
+}
+.sym{
+
+    border-radius: 50%;
+    height: 80px;
+}
